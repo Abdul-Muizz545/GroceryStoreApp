@@ -1,8 +1,3 @@
-/* Name: Abdul-Muizz Imtiaz, Abdul Mohsen Adel Alabdeen, Najeeb Salim
- * ID: 2181151889, 2181145248, 2181151588
- * JavaProjectPhase1
- */
-
 package GroceryStore;
 
 import java.util.Scanner;
